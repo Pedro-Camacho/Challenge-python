@@ -1,4 +1,5 @@
 import random
+#array com os corredores ativos na formula E
 pilotos = ['Nick Cassidy', 'Pascal Wehrlein', 
            'Mitch Evans', 'Oliver Rowland', 
            'Jake Dennis', 'Jean-Éric Vergne', 
@@ -14,6 +15,8 @@ pilotos = ['Nick Cassidy', 'Pascal Wehrlein',
            'Jordan King', 'Paul Aron' ]
 
 
+
+#funcão que verifica saldo se possível "abre" um pacote aleatorio e o adicona a sua coleção
 def abrir_pacote(jogador):
     if jogador[1] >= 20:
         piloto_sorteado_1 = random.choice(pilotos)
@@ -38,7 +41,8 @@ def abrir_pacote(jogador):
         print(f'{jogador[1]}')
     else:
         print(f'\nSaldo insuficiente {jogador[1]}\n')
-    
+
+#recebe do usuario um item que será vendido pela metade do preço de um pacote
 def vender_item(item_vender):
     while not item_vender in jogador:
         item_vender=input("Digite um item real:")
@@ -47,13 +51,16 @@ def vender_item(item_vender):
     
 def mostrar_colecao():
     print(f'Esta é sua coleção {jogador[0]}')
+    #itera pelo array printando sua coleção
     for i in range(len(jogador)):
         print(f'{jogador[i]}\n')
-    
+
+#Adiciona fundo imaginario ao ususario
 def adicionar_fundos(valor):
     jogador[1]+=valor
     print(f"Valor adicionado a carteira ({valor})")
-    
+
+#funcao que verifica inteiro
 def num_verificado(msg):
     num = input(msg)
     while not  num.isnumeric():
@@ -61,11 +68,13 @@ def num_verificado(msg):
     num= int(num)
     return num
 
+#boas vindas ao usuario e cadastro de nome e saldo
 print("Bem vindo ao E-kids aqui você poderá abrir pacotes para sua coleção vendelos e trocar eles\n")
 jogador=[]
 jogador.append(input("Digite seu Nome:\n"))
 jogador.append(num_verificado('Digite o valor do saldo:\n'))
 
+#menu pricipal com as opções destacadas
 while True:
     opcao=num_verificado("Escolha qual opração deseja: \n1-Abrir pacote.\n2-Vender item.\n3-Mostrar Coleção\n4-Adicionar Moedas")
 
