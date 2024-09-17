@@ -24,6 +24,8 @@ No programa temos 5 funcionalidades "abrir_pacote", "vender_item", "mostrar_cole
 com as funções do nosso programa em sua respectivas ordens assim sendo terá liberdade para poder fazer o que quiser com o programa dentro das opções listadas.
 
 
+Criar um json com os integrantes e equipes 
+
 ## 🙎‍♂️🙎‍♀️ INTEGRANTES
 
 - Pedro Almeida Camacho rm: 556831
