@@ -1,0 +1,222 @@
+{
+    "nome-esporte": "Formula-E",
+    "pilotos":{
+        "1":{
+            "idPiloto": "1",
+            "nome": "Nyck de Vries",
+            "nacionalidade":"Netherlands",
+            "numero":"21",
+            "equipe": "Mahindra"
+        },
+        "2":{
+            "idPiloto":"2",
+            "nome": "Edoardo Mortara",
+            "nacionalidade": "Swiss",
+            "numero":"48",
+            "equipe":"Mahindra"
+        },
+        "3":{
+            "idPiloto":"3",
+            "nome": "Stoffel Vandoorne",
+            "nacionalidade":"Belgium",
+            "numero":"5",
+            "equipe":"DS Penske"
+        },
+        "4":{
+            "idPiloto":"4",
+            "nome": "Jean-Eric Vergne",
+            "nacionalidade": "France",
+            "numero":"25",
+            "equipe":"DS Penske"
+        },
+        "5":{
+            "idPiloto":"5",
+            "nome": "Mitch Evans",
+            "nacionalidade": "New Zealand",
+            "numero":"9",
+            "equipe":"Jaguar TCS Racing"
+        },
+        "6":{
+            "idPiloto":"6",
+            "nome": "Jake Dennis",
+            "nacionalidade": "United Kingdom",
+            "numero":"27",
+            "equipe":"Avalanche Andretti"
+        },
+        "7":{
+            "idPiloto":"7",
+            "nome": "Pascal Wehrlein",
+            "nacionalidade": "Germany",
+            "numero":"94",
+            "equipe":"TAG Heuer Porsche"
+        },
+        "8":{
+            "idPiloto":"8",
+            "nome": "Sam Bird",
+            "nacionalidade": "United Kingdom",
+            "numero":"10",
+            "equipe":"Jaguar TCS Racing"
+        },
+        "9":{
+            "idPiloto":"9",
+            "nome": "Sebastien Buemi",
+            "nacionalidade": "Switzerland",
+            "numero":"23",
+            "equipe":"Envision Racing"
+        },
+        "10":{
+            "idPiloto":"10",
+            "nome": "Nick Cassidy",
+            "nacionalidade": "New Zealand",
+            "numero":"37",
+            "equipe":"Envision Racing"
+        },
+        "11":{
+            "idPiloto":"11",
+            "nome": "Robin Frijns",
+            "nacionalidade": "Netherlands",
+            "numero":"4",
+            "equipe":"ABT Cupra"
+        },
+        "12":{
+            "idPiloto":"12",
+            "nome": "Nico Muller",
+            "nacionalidade": "Switzerland",
+            "numero":"51",
+            "equipe":"ABT Cupra"
+        },
+        "13":{
+            "idPiloto":"13",
+            "nome": "Rene Rast",
+            "nacionalidade": "Germany",
+            "numero":"33",
+            "equipe":"NEOM McLaren"
+        },
+        "14":{
+            "idPiloto":"14",
+            "nome": "Jake Hughes",
+            "nacionalidade": "United Kingdom",
+            "numero":"11",
+            "equipe":"NEOM McLaren"
+        },
+        "15":{
+            "idPiloto":"15",
+            "nome": "Sacha Fenestraz",
+            "nacionalidade": "France",
+            "numero":"7",
+            "equipe":"Nissan"
+        },
+        "16":{
+            "idPiloto":"16",
+            "nome": "Norman Nato",
+            "nacionalidade": "France",
+            "numero":"17",
+            "equipe":"Nissan"
+        },
+        "17":{
+            "idPiloto":"17",
+            "nome": "Maximilian Gunther",
+            "nacionalidade": "Germany",
+            "numero":"6",
+            "equipe":"Maserati MSG Racing"
+        },
+        "18":{
+            "idPiloto":"18",
+            "nome": "Edoardo Mortara",
+            "nacionalidade": "Swiss",
+            "numero":"48",
+            "equipe":"Maserati MSG Racing"
+        },
+        "19":{
+            "idPiloto":"19",
+            "nome": "Oliver Rowland",
+            "nacionalidade": "United Kingdom",
+            "numero":"22",
+            "equipe":"Nissan"
+        },
+        "20":{
+            "idPiloto":"20",
+            "nome": "Antonio Felix da Costa",
+            "nacionalidade": "Portugal",
+            "numero":"13",
+            "equipe":"TAG Heuer Porsche"
+        },
+        "21":{
+            "idPiloto":"21",
+            "nome": "Sebastien Buemi",
+            "nacionalidade": "Swiss",
+            "numero":"16",
+            "equipe":"Envision Racing"
+        },
+        "22":{
+            "idPiloto":"22",
+            "nome": "Dan Ticktum",
+            "nacionalidade": "United Kingdom",
+            "numero":"33",
+            "equipe":"ERT Formula E Team"
+        },
+        "23":{
+            "idPiloto":"23",
+            "nome": "Sergio Sette Camara",
+            "nacionalidade": "Brasil",
+            "numero":"3",
+            "equipe":"ERT Formula E Team"
+        },
+        "24":{
+            "idPiloto":"24",
+            "nome": "Jehan Daruvala",
+            "nacionalidade": "India",
+            "numero":"18",
+            "equipe":"Maserati MSG Racing"
+        },
+        "25":{
+            "idPiloto":"25",
+            "nome": "Taylor Barnard",
+            "nacionalidade": "United Kingdom",
+            "numero":"88",
+            "equipe":"NEOM McLaren"
+        },
+        "26":{
+            "idPiloto":"26",
+            "nome": "Lucas di Grassi",
+            "nacionalidade": "Brasil",
+            "numero":"11",
+            "equipe":"ABT Cupra"
+        },
+        "27":{
+            "idPiloto":"27",
+            "nome": "Joel Eriksson",
+            "nacionalidade": "Sweden",
+            "numero":"44",
+            "equipe":"Envision Racing"
+        },
+        "28":{
+            "idPiloto":"28",
+            "nome": "Kelvin Van Der Lind",
+            "nacionalidade": "South Africa",
+            "numero":"51",
+            "equipe":"ABT Cupra"
+        },
+        "29":{
+            "idPiloto":"29",
+            "nome": "Jordan King",
+            "nacionalidade": "United Kingdom",
+            "numero":"21",
+            "equipe":"Mahindra"
+        },
+        "30":{
+            "idPiloto":"30",
+            "nome": "Paul Aron",
+            "nacionalidade": "Estonia",
+            "numero":"166",
+            "equipe":"Envision Racing"
+        },
+        "31":{
+            "idPiloto":"31",
+            "nome": "Caio Collet",
+            "nacionalidade": "Brasil",
+            "numero":"22",
+            "equipe":"Nissan"
+        }
+    }
+}
