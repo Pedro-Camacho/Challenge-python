@@ -33,3 +33,7 @@ com as funções do nosso programa em sua respectivas ordens assim sendo terá l
 - Isabelle Dallabeneta rm: 554592
 - Nicoli Amy Kassa rm: 559104
 - Diógenes Henrique do Santos Costa rm: 559127
+
+# Links
+
+### [Vídeo explicativo do projeto](https://youtu.be/1n0LGje4kiA)
